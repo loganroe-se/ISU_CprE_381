@@ -17,10 +17,10 @@ Number of People: 2 (Only for Projects)
 * Nathan Reff
 
 # Goal of the Project
-**Project 1**
-The primary goal in project 1 was to create a single-cycle MIPS-based processor from scratch. This involved designing and programming the processor that is capable of executing basic instructions in a single clock cycle.
+**Project 1**  
+The primary goal in project 1 was to create a single-cycle MIPS-based processor from scratch. This involved designing and programming the processor that is capable of executing basic instructions in a single clock cycle.  
 
-**Project 2**
+**Project 2**  
 The primary goal in project 2 was to create a 5-stage pipelined processor with data forwarding to allow multiple instructions to be run simultaneously. This allowed for faster processing than the processor from project 1, however, it did add significant complexity.
 
 # Notes
